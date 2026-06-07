@@ -16,7 +16,8 @@ MiniMediaEdit is a small, no-nonsense video editor for quick edits: assemble cli
 - Optional auto-save with crash recovery
 - Export to H.264 / H.265 / VP9, with hardware acceleration (NVIDIA / Intel / AMD) when available
 - Bilingual interface: English / French
-<img width="1741" height="1190" alt="Capture d&#39;écran 2026-06-05 231046" src="https://github.com/user-attachments/assets/ea185a00-8df6-4cfa-8523-fb70b56d20cb" />
+<img width="1741" height="1190" alt="Capture d&#39;écran 2026-06-07 124223" src="https://github.com/user-attachments/assets/6d6b1ddf-9256-4a01-ac67-bfcac8ce571d" />
+
 
 ## Requirements
 
