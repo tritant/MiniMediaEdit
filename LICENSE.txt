@@ -1,0 +1,52 @@
+MiniMediaEdit — License
+=======================
+
+Copyright (c) 2026 Jicé (tritant)
+
+MiniMediaEdit is distributed as "donateware". The software is free to use,
+for personal or professional purposes, with no functional limitations, and
+may be shared freely provided the binary is not modified.
+
+Terms
+-----
+
+1. The software is provided "as is", without warranty of any kind, express or
+   implied. The author is not liable for any data loss or damage arising from
+   its use.
+
+2. You are free to:
+   - install the software on as many machines as you want,
+   - use it to produce commercial or non-commercial content,
+   - redistribute the original, unmodified binary.
+
+3. You may not:
+   - modify the binary (in particular to bypass the donateware license
+     mechanism),
+   - resell the software as if it were your own,
+   - distribute a modified version under the same name.
+
+4. If you use the software regularly, a donation is appreciated. Donors
+   receive a license key that:
+   - registers the software in their name (shown in the title bar),
+   - removes the startup donation reminder.
+   The key is strictly personal and must not be shared.
+
+5. The source code is not publicly distributed.
+
+Third-party components
+----------------------
+
+The software relies on third-party components distributed under their own
+licenses:
+
+- Python              (PSF License)
+- wxPython            (wxWindows Library License)
+- PyAV                (BSD-3-Clause)
+- Pillow              (HPND)
+- NumPy               (BSD-3-Clause)
+- sounddevice         (MIT)
+- FFmpeg              (LGPL or GPL depending on the build — NOT distributed
+                       with this software; installed separately by the user)
+
+Each component remains subject to its own license. MiniMediaEdit does not
+redistribute FFmpeg.
