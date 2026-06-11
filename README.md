@@ -1,4 +1,10 @@
 # MiniMediaEdit
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-minimediaedit.eu-5b8cff?style=for-the-badge)](https://minimediaedit.eu)
+[![Donate](https://img.shields.io/badge/Donate-Get_a_license_key-ffae5b?style=for-the-badge)](https://minimediaedit.eu/donate.php)
+
+</div>
 
 **Lightweight, free video editor for Windows — fast cutting, multitrack timeline, transitions and export.**
 
