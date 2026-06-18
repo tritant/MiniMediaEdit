@@ -12,6 +12,19 @@ MiniMediaEdit is a small, no-nonsense video editor for quick edits: assemble cli
 
 ## Features
 
+- Overlay track for animated text
+- Video overlay effects with screen/lighten blending
+- Preview video overlay effects before adding them to the timeline
+- Built-in FX folder support for custom video effects
+- Frame-by-frame preview controls
+- Preview quality selector for smoother playback (low ram)
+- Reverse playback for video clips
+- Reverse playback support inside transitions
+- Improved transition handling for snapped and overlapping clips
+- More stable preview playback around transitions
+- Export support for overlays, effects, reverse clips and complex transitions
+- Update checker via GitHub Releases
+- Improved logging and early crash reporting
 - Media bin for videos, images and audio with thumbnails
 - Trim player with in/out marks
 - Multitrack video timeline + a dedicated audio track
